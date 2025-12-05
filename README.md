@@ -522,8 +522,6 @@ is recommended if you want support from developers or maintainers or if you wish
 ## Acknowledgements
 
 - A massive shoutout and thank you to all the **creators, project maintainers, contributors, and community members** working behind the scenes on various Nothing-related projects. Your efforts, whether direct or indirect, have helped make this project possible. ❤️
-- Huge thanks to the [r/NothingTech wiki](https://www.reddit.com/r/NothingTech/wiki/), especially [u/adaaamb](https://www.reddit.com/user/adaaamb/) and the other moderators, whose **Devices** and **Community Apps** sections served as the original source for the initial layout — reflected in [this commit](https://github.com/spike0en/awesome_nothing/commit/e6b48f0c89a1cc45cad3d1eb76d05941dcf79f1d) and [this commit](https://github.com/spike0en/awesome_nothing/commit/9c40cf08b1b6d0159459c1653c9419635305a557). Beyond this initial structure, the project has evolved independently.
-- [Nothing Resource Index by spike0en](https://linkfly.to/nothingarchive) — A resource page previously maintained by myself, from which much of the content was ported over to this index for easier maintenance and improved open-source collaboration.
 
 ---
 
