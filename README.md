@@ -344,6 +344,7 @@ The walls have been archived for access under respective directories named after
 #### Website
 
 - [NothingFont by xeji01](https://github.com/xeji01/nothingfont) - [nothing.tech](https://nothing.tech) typeface.
+- [Geist Mono](https://fonts.google.com/specimen/Geist+Mono)
 
 ---
 
