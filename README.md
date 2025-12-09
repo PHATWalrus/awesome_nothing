@@ -466,7 +466,7 @@ The config (`xml`) files have been archived for access in their respective direc
 - [Google Photos Collection](https://photos.google.com/share/AF1QipMLXmA5txDQHqlHzF6OV4HhkLTMsqUx9m8_3jMNH0_MizjA7038n_j8gz4v54zTNw?pli=1&key=QUJKYVY4akFFWGVCWWtleG9DMkNCcDc1c2V5TzZB)
 - [Nothing Playground](https://playground.nothing.tech/presets?ref=aitoolsclub.com)
 - [Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
-- [r/NothingTech](https://www.reddit.com/r/NothingTech/search/?q=camera+presets&type=posts&sort=new&iId=78dc728f-79f3-4444-8427-93f9df64240f)
+- [r/NothingTech](https://www.reddit.com/r/NothingTech/search/?q=camera+presets&type=posts&sort=new&iId=78dc728f-79f3-4444-8427-93f9df64240f) | [r/NOTHING](https://www.reddit.com/r/NOTHING/search/?q=camera+presets&type=posts&sort=new&cId=02c8051a-de8b-40e6-9944-320111d5c289&iId=79adc47e-a953-47ee-840e-97377fb2b750) | [r/CMFtech](https://www.reddit.com/r/CMFTech/search/?q=camera+presets&type=posts&sort=new&cId=a07c6397-74b0-44b6-80de-c2dcca40da09&iId=c871e897-c05e-4f54-ba42-a77b3052f7e1)
 - [Telegram Community Topic](https://t.me/NothingTelegramCommunity)
 
 
