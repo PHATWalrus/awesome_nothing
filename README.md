@@ -157,6 +157,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [GlyphSharge by bleelblep](https://github.com/Leekawaii666/GlyphSharge) - A powerful glyph interface management app for Nothing phones that enhances the Glyph interface capabilities with advanced features and customization options.
 - [GlyphZen by bleelblep](https://github.com/bleelblep/Glyph-Zen/releases/tag/v1.1) - A calming and minimalist breathing app for for Nothing phones.
 - [Nothing Glyph Gyroscope by gawdam](https://github.com/gawdam/nothingGyro) - A simple and intuitive bubble level app for the Nothing phone (1) and (2), using the built-in accelerometer and gyroscope sensors to detect tilt angles.
+- [MorseGlyphs by roxe12345](https://github.com/roxe12345/MorseGlyphs) - A Nothing exclusive app where you type in Morse code and see it in glyph lights.
 - [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 
 ---
