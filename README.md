@@ -385,14 +385,14 @@ Other interesting projects maintained by the community.
 ### Apps
 The official suite of apps developed by Nothing Technology Limited.
 
-- [CMF Watch](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch)  
+- CMF Watch: [Play Store](https://play.google.com/store/apps/details?id=com.nothing.cmf.watch) | [iOS App Store](https://apps.apple.com/us/app/cmf-watch/id6447500890)
 - [Community Widgets](https://play.google.com/store/apps/details?id=com.nothing.communitywidgets)  
 - [Essential Space](https://play.google.com/store/apps/details?id=com.nothing.ntessentialspace)  
 - [Gallery](https://play.google.com/store/apps/details?id=com.nothing.gallery)  
 - [Glyph Composer](https://play.google.com/store/apps/details?id=com.nothing.glyph.composer)  
 - [Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon)  
 - [Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher)  
-- [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter)  
+- Nothing X: [Play Store](https://play.google.com/store/apps/details?id=com.nothing.smartcenter) | [iOS App Store](https://apps.apple.com/us/app/nothing-x/id1568033706)
 - [Wallpaper](https://play.google.com/store/apps/details?id=com.nothing.wallpaper)  
 - [Weather](https://play.google.com/store/apps/details?id=com.nothing.weather)  
 - [Widgets](https://play.google.com/store/apps/details?id=com.nothing.hearthstone)
