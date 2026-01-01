@@ -503,7 +503,7 @@ The official links to `.glb` files are shared below for respective models.
 #### CMF by Nothing
 
 - Phone (1) - [Light Green](https://cdn.sanity.io/files/gtd4w1cq/production/cdbaddc958359556191101ba3b049782b0c618ae.glb) | [Orange](https://cdn.sanity.io/files/gtd4w1cq/production/94a4ddd97cac31d7676845ab2942849471e2d1a3.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/de67e4ed8b864d9f05da3a3a01839069cf79ad8b.glb)
-- Phone (2a) Pro - [Light Green](https://cdn.sanity.io/files/gtd4w1cq/production/b54cdec768b611a7af4c166b10e617f8caf11204.glb) | [Orange](https://cdn.sanity.io/files/gtd4w1cq/production/540e40a622cc01c73edddfeb4283cfe1109820b7.glb) | [White](https://cdn.sanity.io/files/gtd4w1cq/production/c7ca3faffb239aac1b1e711086ab43f49f0e3a31.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/3fe749a61a1c98b3c6473d57e8f3a17d8c1aaba0.glb)
+- Phone (2) Pro - [Light Green](https://cdn.sanity.io/files/gtd4w1cq/production/b54cdec768b611a7af4c166b10e617f8caf11204.glb) | [Orange](https://cdn.sanity.io/files/gtd4w1cq/production/540e40a622cc01c73edddfeb4283cfe1109820b7.glb) | [White](https://cdn.sanity.io/files/gtd4w1cq/production/c7ca3faffb239aac1b1e711086ab43f49f0e3a31.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/3fe749a61a1c98b3c6473d57e8f3a17d8c1aaba0.glb)
 
 <div align="center">
   <br>
