@@ -1,35 +1,15 @@
 <div align="center"> <img src="assets/logo.png" width="96" alt="Awesome Nothing Logo"> <h1>Awesome Nothing</h1> <p>A curated list of everything related to Nothing & CMF by Nothing ecosystem.</p>
 <br />
-
+  
   [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
   [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fawesome_nothing&label=Hits&icon=github&color=%23b02a37&labelColor=2E2E3F)](https://github.com/spike0en/awesome_nothing) 
   [![Stars](https://img.shields.io/github/stars/spike0en/awesome_nothing?logo=github&color=D4AF37)](https://github.com/spike0en/awesome_nothing/stargazers) 
   [![Forks](https://img.shields.io/github/forks/spike0en/awesome_nothing?logo=github&color=468FAF)](https://github.com/spike0en/awesome_nothing/network/members) 
 
-</div>
- 
-<div align="center">
-  <br>
-  <span style="font-size: 30px;">••••••••••••••••••••••</span>
-  <br>
-
-## Co-maintainers
-
-<br>
-
-[![adbo](https://img.shields.io/badge/adbo-9E9D10?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/168006441318350848)
-[![Siemens NX](https://img.shields.io/badge/Siemens%20NX-8E24AA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/150299184426123273)
-
-<div align="center">
-  <br>
-  <span style="font-size: 30px;">••••••••••••••••••••••</span>
-  <br>
-</div>
-
 ## Socials 
 
-### Official 
+#### Official 
 
 [![Community Website](https://img.shields.io/badge/NC-%23E5E5E5?style=for-the-badge&logoColor=058a5e)](https://nothing.community) 
 [![GitHub](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NothingOSS)
@@ -41,25 +21,24 @@
 [![TikTok](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nothing?lang=en)
 
 <div align="center">
-  <br>
-  <span style="font-size: 30px;">••••••••••••••••••••••</span>
-  <br>
+  <span style="font-size: 30px;">••••••••••</span>
 </div>
 
-### Unofficial (Community Maintained)
+#### Community Maintained
 
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/nothing_archive)  [![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/)  [![r/NothingTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech)  [![r/Nothing](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Nothing)  [![r/CMFTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CMFTech)
+[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/nothing_archive)
+[![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/)
+[![r/NothingTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech)
+[![r/Nothing](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Nothing)
+[![r/CMFTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CMFTech)
+<br>
 
-</div>
-
-<div align="center">
-  <br>
-  <span style="font-size: 30px;">••••••••••••••••••••••</span>
-  <br>
 
 ## Support the Project
 
 If this index is helpful, please consider [starring ⭐ the repository](https://github.com/spike0en/awesome_nothing/stargazers). It helps with discoverability and encourages maintenance. Thank you!
+
+</div>
 
 <div align="center">
   <picture>
@@ -67,8 +46,6 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" width="500" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
   </picture>
-</div>
-
 </div>
 
 <div align="center">
