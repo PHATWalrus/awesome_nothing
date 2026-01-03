@@ -223,6 +223,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Elements Widgets by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.elements) - A fresh, minimal and functional widgets experience inspired by Nothing OS for your home screen.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
 - [HeyBattery by Candan](https://github.com/ghostyapps/HeyBattery) - A lightweight Android app that tracks your battery usage and charging behavior.
+- [HeyCam by Candan](https://github.com/ghostyapps/HeyCam) - A minimalist camera app delivering unprocessed photos with seamless integration for Nothing Phone (3)'s Glyph Matrix.
 - [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
