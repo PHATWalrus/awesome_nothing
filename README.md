@@ -335,7 +335,8 @@ Other interesting projects maintained by the community.
 - [Dotify Client by PATEL96](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
 - [Dotmatrixify by szelszabi](https://github.com/szelszabi/dotmatrixify) - Transforms pixelart to dot matrix..
 - [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.
-- [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A vibecoded, minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS.
+- [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS.
+- [HomePage by CorruptPriest](https://github.com/CorruptPriest/HomePage) - A terminal inspired utility focused homepage which allows for multiple search options, quick notes and multiple other terminal commands for an efficient browsing experience. Themed for nothing os.
 - [GlyphMatrixEditor by pauwma](https://github.com/pauwma/GlyphMatrixEditor) - A web-based pixel art editor specifically designed for creating Nothing Phone (3) Glyph Matrix animations.
 - [Glyph Matrix Image Maker by quintenvandamme](https://github.com/quintenvandamme/glyph-matrix-image-maker) - A web application that converts images into glyph matrix patterns.
 - [Macros by RedSkullxHydra](https://nothing.community/d/14869-useful-macros-for-nothing-phones) - Useful Macros for Nothing Phones compatible with Macrodroid.
