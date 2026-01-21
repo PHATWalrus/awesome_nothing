@@ -198,6 +198,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 - [Don't Look by Creepsmile](https://play.google.com/store/apps/details?id=com.lended.dontlook) - An app that enhances focus by blocking distractions and managing notifications, promoting healthier device habits without ads or data collection.
 - [Dothing by FirstYogi](https://play.google.com/store/apps/details?id=com.firstyogi.dothing) - A minimalist tasks app with cloud backup.
+- [DotNotes by shubh72010](https://github.com/shubh72010/DotNotes) - An AI-powered notes app that follows the Nothing design aesthetic.
 - [nNotes by Bhavuk Verma](https://play.google.com/store/apps/details?id=com.bhavukverma.nNotes) - An open source Nothing OS style notes app.
 - [No Things To Do List by Martin Diermayr](https://play.google.com/store/apps/details?id=com.todo.nothingwidgets) - A Nothing inspired task/to-do app and widget with customisable reminders.
 - [NDot Notes by AzhamProdLive](https://github.com/AzhamProdLive/Notes_App_Nothing) - A simple notes app with NDot font theme.
