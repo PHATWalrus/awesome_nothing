@@ -365,8 +365,14 @@ Other interesting projects maintained by the community.
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
 - [Spin The Bottle Simulator by MadGlacierRunner](http://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
 - [Wallpaper Studio Pro by Ifham9](https://wallpaperstudiopro.netlify.app/) - An AI-powered tool that generates minimalist, deep-black wallpapers with an UI tailored for Nothing phones.
-- [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing) - NothingOS enhanced module.
-- [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller/) - NothingOS 4.0 Debloat module.
+
+#### Modules
+
+These require root access (KernelSU or Magisk) and are tailored for Nothing devices. Proceed with caution and only if you know what you’re doing!
+
+- [Nothing Battery Fix](https://github.com/Farpathan/Nothing-Battery-Fix) – Restores the classic battery percentage style on Nothing OS.
+- [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing) – A collection of system tweaks and enhancements for Nothing devices.
+- [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller/) – Debloat module that disables or removes Aura (App Services / Mobile Services) on Nothing OS 4.0.
 
 <div align="center">
   <br>
