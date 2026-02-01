@@ -377,6 +377,7 @@ These require root access (KernelSU or Magisk) and are tailored for Nothing devi
 
 - [Nothing Battery Fix](https://github.com/Farpathan/Nothing-Battery-Fix) – Restores the classic battery percentage style on Nothing OS.
 - [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing) – A collection of system tweaks and enhancements for Nothing devices.
+- [NothingXpert by Rares6567](https://github.com/Rares6567/NothingXpert/) - A LSPosed/Xposed module that adds useful features to your Nothing phone without bloating the system.
 - [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller/) – Debloat module that disables or removes Aura (App Services / Mobile Services) on Nothing OS 4.0.
 
 <div align="center">
