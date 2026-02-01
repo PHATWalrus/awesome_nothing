@@ -183,6 +183,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [GlyphGlow by fgiering](https://github.com/fgiering/GlyphGlow) - A minimal app to control the Glyph interface on supported Nothing phones.
 - [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - Advanced Glyph controls for notifications, charging indicators, mini-games and Glyph compositions. Supports Glyph Matrix on Phone (3).
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - Advanced Glyph notification control including Glyph Timer for Phone (1). Supports Glyph Matrix on Phone (3).
+- [GlyphSaber by Norbinarius](https://github.com/Norbinarius/glyphsaber) - An app for controlling the glyph interface on supported Nothing phones running Nothing OS 4.0 and higher.
 - [GlyphSharge by bleelblep](https://github.com/Leekawaii666/GlyphSharge) - A powerful glyph interface management app for Nothing phones that enhances the Glyph interface capabilities with advanced features and customization options.
 - [GlyphZen by bleelblep](https://github.com/bleelblep/Glyph-Zen/releases/tag/v1.1) - A calming and minimalist breathing app for for Nothing phones.
 - [Nothing Glyph Gyroscope by gawdam](https://github.com/gawdam/nothingGyro) - A simple and intuitive bubble level app for the Nothing phone (1) and (2), using the built-in accelerometer and gyroscope sensors to detect tilt angles.
