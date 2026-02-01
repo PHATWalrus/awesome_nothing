@@ -231,6 +231,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [HeyBattery by Candan](https://github.com/ghostyapps/HeyBattery) - A lightweight Android app that tracks your battery usage and charging behavior.
 - [HeyCam by Candan](https://github.com/ghostyapps/HeyCam) - A minimalist camera app delivering unprocessed photos with seamless integration for Nothing Phone (3)'s Glyph Matrix.
 - [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
+- [Minimal Browser by aaswani-v](https://github.com/aaswani-v/Minimal-Browser) - A streamlined browsing experience featuring glass morphism, one-hand accessibility, and integrated AI summarization.
 - [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
 - [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
 - [N Keyboard by arunk14](https://github.com/arunk140/nth-kbd) - An Android keyboard app themed heavily for Nothing devices.
