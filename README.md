@@ -219,9 +219,9 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 - [Battery Health by monospace](https://play.google.com/store/apps/details?id=com.monospace.battery) - A battery health monitoring app with design inspired by Nothing apps.
 - [Calories Are Nothing by WeAreMobileFirst](https://play.google.com/store/apps/details?id=can.wearemobilefirst.com) -  A meal logging app that helps you make better food choices by allowing quick photo or text entries without the hassle of calorie counting.
+- [CMF Custom Volume Controller by AlirezaFarghadani](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) - A custom volume controller app for CMF by Nothing Phones.
 - [Compass by Earendel](https://github.com/Earendel-lab/Compass) -Simple and beautiful compass for Android.
 - [Currency by Earendel](https://github.com/zwebuse-lab/Currency) - A simple and minimal currency converter  [web app](http://curency.pages.dev/) inspired from Nothing OS.
-- [CMF Custom Volume Controller by AlirezaFarghadani](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) - A custom volume controller app for CMF by Nothing Phones.
 - [Elements Widgets by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.elements) - A fresh, minimal and functional widgets experience inspired by Nothing OS for your home screen.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
 - [GeoTorch by georgenelson576](https://github.com/georgenelson576/GeoTorch/) - A flashlight app with brightness control and instant access widgets for Nothing phones.
@@ -229,12 +229,12 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [HeyCam by Candan](https://github.com/ghostyapps/HeyCam) - A minimalist camera app delivering unprocessed photos with seamless integration for Nothing Phone (3)'s Glyph Matrix.
 - [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
 - [Minimal Browser by aaswani-v](https://github.com/aaswani-v/Minimal-Browser) - A streamlined browsing experience featuring glass morphism, one-hand accessibility, and integrated AI summarization.
-- [N Calc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
-- [N Dial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
-- [N Keyboard by arunk14](https://github.com/arunk140/nth-kbd) - An Android keyboard app themed heavily for Nothing devices.
 - [n-recipe by a3chron](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - An offline recipebook app, with theming inspired by Nothing.
+- [NCalc by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ncalc) - A calculator with custom themes, including Nothing style.
+- [NDial by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.ndial) - A Nothing styled phone dialer and contacts app.
+- [NeoCalc by Creepsmile](https://play.google.com/store/apps/details?id=com.lended.neocalc) - A sleek, Nothing OS inspired calculator that delivers fast, offline, and privacy-focused calculations in a clean, futuristic interface.
+- [NKeyboard by arunk14](https://github.com/arunk140/nth-kbd) - An Android keyboard app themed heavily for Nothing devices.
 - [NoCalendar by NoAppsStudio](https://play.google.com/store/apps/details?id=com.calendar.nocalendar) - A calendar app inspired by Nothing design, with Google Calendar sync.
-- [NothingQuickTools by DylanAkp](https://github.com/DylanAkp/NothingQuickTools) - A collection of useful quick tiles for Nothing Phone (2).
 - [Nothing Audio Recorder by Cloud Nine Labs](https://play.google.com/store/apps/details?id=com.service.rare.audio.recorder) - An audio recorder app following the Nothing design language.
 - [Nothing Browser by Creepsmile](https://play.google.com/store/apps/details?id=com.lended.browser) - An AI-powered, minimalist web browser that delivers a focused, intelligent browsing experience with a sleek design inspired by Nothing OS.
 - [Nothing Clock by Sasha Chverenko](https://github.com/SushiiReboot/Nothing-Clock) - A Nothing style world clock, timer and stopwatch app.
@@ -243,6 +243,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Nothing LED Banner by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.thebannerapp) - Create captivating LED banners on your device for events, advertising, and more with the help of this app!
 - [Nothing Weather by Apex Creators](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather) - A Nothing style weather app to know how much warmer or colder it is than yesterday.
 - [NothingK by cuadratico](https://github.com/cuadratico/NothingK) - A digital vault for storing passwords.
+- [NothingQuickTools by DylanAkp](https://github.com/DylanAkp/NothingQuickTools) - A collection of useful quick tiles for Nothing Phone (2).
 - [NoVolume by NoAppsStudio](https://play.google.com/store/apps/details?id=com.nostudio.novolume) - A fully customisable volume slider with Nothing aesthetic. You can find presets for the same in [this discord server thread](https://discord.com/channels/930878214237200394/1396048761599557693).
 - [NxCalculator by montybytes](https://github.com/montybytes/nxcalculator) - A simple calculator app that follows the design language of Nothing OS for Nothing and CMF phones.
 - [OpenCalc by drrnb](https://github.com/drrnb/OpenCalc/releases/tag/v3.0.0-beta4-nothing) - A simple nothing themed calculator app
