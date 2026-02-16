@@ -309,6 +309,7 @@ A collection of Glyph Matrix Toys by the community.
 > [!NOTE]
 > Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) section for more interesting toys that are not included in the list given below.
 
+- [Aeroglyph Weather by poorneshadhithya](https://github.com/poorneshadhithya/Aeroglyph-Weather) - A Phone (3) exclusive glyph toy that turns the matrix into an ambient, retro-futuristic weather station.
 - [BetterBattery by pzmuV1517](https://github.com/PzmuV1517/BetterBatery) - An Advanced Glyph Matrix battery visualization.
 - [BetterClock by Snakehater](https://github.com/Snakehater/betterclock) - This toy features a multifunctional display that includes a clock, battery status, charging animation and icon, a DND, and a toggle for the same with a back button.
 - [Counter by Daniel](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) - A simple and intuitive counter ranging from 0 to 9999.
