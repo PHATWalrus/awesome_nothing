@@ -272,6 +272,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Nothing News by Mirko_ddd](https://play.google.com/store/apps/details?id=com.nothing.news) - All of the latest news from the Nothing community.
 - [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
 - [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
+- [Atmo Engine by saad-khan-rind](https://github.com/saad-khan-rind/NOSAtmosphereEffect) - An app to replicate Nothing's atmosphere wallpaper effect for other devices.
 
 <div align="center">
   <br>
