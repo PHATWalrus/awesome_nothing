@@ -7,7 +7,8 @@
 
 @font-face {
   font-family: 'NType82';
-  src: url('/awesome_nothing/fonts/NType82-Regular.otf') format('opentype');
+  /* Using relative path to src/fonts */
+  src: url('../fonts/NType82-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
