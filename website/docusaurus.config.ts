@@ -11,10 +11,10 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://spike0en.github.io',
+  url: 'https://PHATWalrus.github.io',
   baseUrl: '/awesome_nothing/',
 
-  organizationName: 'spike0en',
+  organizationName: 'PHATWalrus',
   projectName: 'awesome_nothing',
 
   onBrokenLinks: 'warn',
@@ -31,7 +31,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/spike0en/awesome_nothing/tree/main/website/',
+          editUrl: 'https://github.com/PHATWalrus/awesome_nothing/tree/main/website/',
         },
         blog: false,
         theme: {
@@ -62,14 +62,14 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/spike0en/awesome_nothing',
+          href: 'https://github.com/PHATWalrus/awesome_nothing',
           position: 'right',
           className: 'header-github-stars',
           'aria-label': 'GitHub Stars',
-          html: '<img src="https://img.shields.io/github/stars/spike0en/awesome_nothing?style=flat&logo=github&label=Stars&color=181818&labelColor=0a0a0a" alt="GitHub Stars" />',
+          html: '<img src="https://img.shields.io/github/stars/PHATWalrus/awesome_nothing?style=flat&logo=github&label=Stars&color=181818&labelColor=0a0a0a" alt="GitHub Stars" />',
         },
         {
-          href: 'https://github.com/spike0en/awesome_nothing',
+          href: 'https://github.com/PHATWalrus/awesome_nothing',
           label: 'GitHub',
           position: 'right',
         },
