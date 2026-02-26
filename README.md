@@ -221,7 +221,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Calories Are Nothing by WeAreMobileFirst](https://play.google.com/store/apps/details?id=can.wearemobilefirst.com) -  A meal logging app that helps you make better food choices by allowing quick photo or text entries without the hassle of calorie counting.
 - [CMF Custom Volume Controller by AlirezaFarghadani](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) - A custom volume controller app for CMF by Nothing Phones.
 - [Compass by Earendel](https://github.com/Earendel-lab/Compass) -Simple and beautiful compass for Android.
-- [Currency by Earendel](https://github.com/zwebuse-lab/Currency) - A simple and minimal currency converter  [web app](http://curency.pages.dev/) inspired from Nothing OS.
+- [Currency by Earendel](https://github.com/zwebuse-lab/Currency) - A simple and minimal currency converter  [web app](https://curency.pages.dev/) inspired from Nothing OS.
 - [Elements Widgets by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.elements) - A fresh, minimal and functional widgets experience inspired by Nothing OS for your home screen.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
 - [GeoTorch by georgenelson576](https://github.com/georgenelson576/GeoTorch/) - A flashlight app with brightness control and instant access widgets for Nothing phones.
@@ -264,7 +264,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 - [365-Days by dipin-bot](https://github.com/dipin-bot/365-Days) - A minimalist live wallpaper app to countdown the days in a year, inspired by Nothing dot design language.
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
-- [Flow by Earendel-lab](https://github.com/Earendel-lab/Flow) - A minimalist Pomodoro timer [web app](http://flowpo.pages.dev/) designed for deep work and distraction-free productivity.
+- [Flow by Earendel-lab](https://github.com/Earendel-lab/Flow) - A minimalist Pomodoro timer [web app](https://flowpo.pages.dev/) designed for deep work and distraction-free productivity.
 - [Lentlay by Omkar Mangalekar](https://lentlay.framer.website/) - An app that lets you add the Nothing inspired lenticular effect to your image.
 - [MissingCore Music by MissingCore](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) - A Nothing OS inspired, open source offline/local music player app.
 - [Noid by TechSip Studios](https://play.google.com/store/apps/details?id=com.techsip.noid) - A Nothing styled file management app.
@@ -320,7 +320,7 @@ A collection of Glyph Matrix Toys by the community.
 - [Glyph Bike by Ofishial Digital](https://play.google.com/store/apps/details?id=com.ofishialdigital.glyphbike) - A fast-paced scrolling game where you navigate a motorbike through jumps and obstacles.  
 - [Glyph Catch by equalparts](https://github.com/equalparts/glyph-catch) - A Pokémon collecting fan-game for Nothing Phone 3 Glyph Matrix
 - [Glyph Marquee by bluehomewu](https://github.com/bluehomewu/GlyphMarquee) - A simple Glyph Matrix toy that displays scrolling text messages.
-- [Glyph Matrix Simulator by pzmuV1517](http://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
+- [Glyph Matrix Simulator by pzmuV1517](https://glyph.andreibanu.com/) - A website to test and develop Glyph Matrix code.
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
 - [GlyphCade by bleelblep](https://github.com/bleelblep/GlyphCade/) - An unique arcade experience, where all games are displayed on the Phone (3)'s Glyph Matrix and controlled via its touch screen.
@@ -330,7 +330,7 @@ A collection of Glyph Matrix Toys by the community.
 - [HA-Glyph by pzmuv1517](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
 - [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
-- [Pomodoro Timer by pzmuV1517](http://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
+- [Pomodoro Timer by pzmuV1517](https://github.com/PzmuV1517/GlyphPomodoroTimer) - A pomodoro timer toy.
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 - [Timepiece by Arun Khanchandani](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) - Transform your Glyph Matrix into a smart, functional, and stylish information hub with an ultimate Always-On clock utility.
 
@@ -370,7 +370,7 @@ Other interesting projects maintained by the community.
 - [NothingOS Manjaro Gnome by HyenaDesign](https://github.com/HyenaDesign/nothingos-gnome-manjaro) - A NothingOS inspired desktop build for Manjaro Linux (GNOME edition).
 - [NotWidgets by GXX0T](https://github.com/GXX0T/NotWidgets) - A collection of minimalist Nothing OS-inspired Rainmeter widgets for Windows with light/dark mode options.
 - [NThing-UI](https://github.com/Runixe786/NThing-UI) - A collection of Nothing-styled Rainmeter widgets for desktop customization.
-- [Spin The Bottle Simulator by MadGlacierRunner](http://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
+- [Spin The Bottle Simulator by MadGlacierRunner](https://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
 - [Wallpaper Studio Pro by Ifham9](https://wallpaperstudiopro.netlify.app/) - An AI-powered tool that generates minimalist, deep-black wallpapers with an UI tailored for Nothing phones.
 
 #### Modules
@@ -488,7 +488,7 @@ Software toolkit for devs to create custom interactive experiences for Glyph LED
 - [GlyphMatrix-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit)
 - [BetterGDK by Fr4nKB (Unofficial)](https://github.com/Fr4nKB/BetterGDK) - A modified version of Glyph Developer Kit by Nothing-Developer-Programme aiming to [fix bugs and improve code quality](https://github.com/Fr4nKB/BetterGDK#why-is-it-better).
 - [Nothing Glyph Interface for Flutter (Unofficial)](https://pub.dev/packages/nothing_glyph_interface)
-- [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
+- [NothingOS.Unity (Unofficial)](https://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
 
 <div align="center">
   <br>
@@ -522,15 +522,15 @@ The official links to `.glb` files are shared below for respective models.
 ### Support Links
 Official support links related to after-sales, tech support, business and careers.
 
-- [Business Enquiry](http://nothing.tech/pages/business-enquiry)
-- [Careers](http://careers.nothing.tech/)
+- [Business Enquiry](https://nothing.tech/pages/business-enquiry)
+- [Careers](https://careers.nothing.tech/)
 - [CMF Twitter(X) Support](http://cmf_support/)
-- [Customer Support](http://nothing.tech/pages/support-centre)
+- [Customer Support](https://nothing.tech/pages/support-centre)
 - [FAQ](https://support.nothing.tech/hc/en-us/categories/38487703211153-FAQ)
 - [Nothing Twitter(X) Support](http://nothingsupport/)
-- [Product Guide](http://nothing.tech/pages/support-product-help)
+- [Product Guide](https://nothing.tech/pages/support-product-help)
 - [Product Status](https://nothing.tech/pages/imei)
-- [Service Centre](http://nothing.tech/pages/service-center)
+- [Service Centre](https://nothing.tech/pages/service-center)
 - [Troubleshooting](https://support.nothing.tech/hc/en-us/categories/7455115681041-Troubleshooting)
 
 <div align="center">
@@ -595,7 +595,7 @@ The config (`xml`) files have been archived for access in their respective direc
 - [Discord Thread](https://discord.com/channels/930878214237200394/1351115520245760021)
 - [Google Photos Collection](https://photos.google.com/share/AF1QipMLXmA5txDQHqlHzF6OV4HhkLTMsqUx9m8_3jMNH0_MizjA7038n_j8gz4v54zTNw?pli=1&key=QUJKYVY4akFFWGVCWWtleG9DMkNCcDc1c2V5TzZB)
 - [Nothing Playground](https://playground.nothing.tech/presets?ref=aitoolsclub.com)
-- [Notion Doc by flo_rahil](http://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
+- [Notion Doc by flo_rahil](https://aromatic-perfume-9a5.notion.site/1bd0ff2f0ced80c0b32cce32f552aa4e?v=1bd0ff2f0ced8152aa23000ce56a341a)
 - [r/NothingTech](https://www.reddit.com/r/NothingTech/search/?q=camera+presets&type=posts&sort=new&iId=78dc728f-79f3-4444-8427-93f9df64240f) | [r/NOTHING](https://www.reddit.com/r/NOTHING/search/?q=camera+presets&type=posts&sort=new&cId=02c8051a-de8b-40e6-9944-320111d5c289&iId=79adc47e-a953-47ee-840e-97377fb2b750) | [r/CMFtech](https://www.reddit.com/r/CMFTech/search/?q=camera+presets&type=posts&sort=new&cId=a07c6397-74b0-44b6-80de-c2dcca40da09&iId=c871e897-c05e-4f54-ba42-a77b3052f7e1)
 - [Telegram Community Topic](https://t.me/NothingTelegramCommunity)
 
