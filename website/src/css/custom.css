@@ -57,6 +57,26 @@
   height: 28px;
 }
 
+/* GitHub stars badge */
+.header-github-stars {
+  display: flex;
+  align-items: center;
+}
+
+.header-github-stars img {
+  height: 22px;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+}
+
+.header-github-stars:hover img {
+  opacity: 0.85;
+}
+
+.header-github-stars:hover {
+  text-decoration: none;
+}
+
 /* Sidebar styling */
 .menu__link {
   font-weight: 500;
