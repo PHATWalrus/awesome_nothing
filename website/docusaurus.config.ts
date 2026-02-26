@@ -89,6 +89,9 @@ const config: Config = {
             {label: 'Devices', to: '/docs/devices'},
             {label: 'Apps', to: '/docs/apps'},
             {label: 'Projects', to: '/docs/projects'},
+            {label: 'Official', to: '/docs/official'},
+            {label: 'Photography', to: '/docs/photography'},
+            {label: 'Guides', to: '/docs/guides'},
           ],
         },
         {
@@ -105,6 +108,7 @@ const config: Config = {
             {label: 'Nothing Archive', href: 'https://github.com/spike0en/nothing_archive'},
             {label: 'XDA Forums', href: 'https://xdaforums.com/c/nothing.12583/'},
             {label: 'Reddit', href: 'https://www.reddit.com/r/NothingTech'},
+            {label: 'Telegram', href: 'https://t.me/s/nothing_archive'},
           ],
         },
       ],
