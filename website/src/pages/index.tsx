@@ -98,6 +98,35 @@ function HomepageFeatures() {
   );
 }
 
+function HomepageSocials() {
+  return (
+    <section className={styles.socials}>
+      <div className="container">
+        <Heading as="h2" className={styles.socialsTitle}>
+          Connect with the Community
+        </Heading>
+        <div className={styles.socialLinks}>
+          <a href="https://nothing.community" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+            Nothing Community
+          </a>
+          <a href="https://discord.com/invite/nothingtech" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+            Discord
+          </a>
+          <a href="https://www.reddit.com/r/NothingTech" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+            Reddit
+          </a>
+          <a href="https://xdaforums.com/c/nothing.12583/" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+            XDA Forums
+          </a>
+          <a href="https://t.me/s/nothing_archive" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+            Telegram
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -108,6 +137,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <HomepageSocials />
       </main>
     </Layout>
   );
