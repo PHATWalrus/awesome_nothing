@@ -3,7 +3,7 @@
  * Minimal, monochrome with red accents
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=DotGothic16&display=swap');
 
 :root {
   --ifm-color-primary: #d71921;
@@ -16,11 +16,13 @@
   
   --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --ifm-font-family-monospace: 'JetBrains Mono', monospace;
+  --ifm-font-family-dot: 'DotGothic16', sans-serif;
+
   --ifm-code-font-size: 90%;
-  --ifm-heading-font-weight: 600;
+  --ifm-heading-font-weight: 400;
   
-  --ifm-background-color: #ffffff;
-  --ifm-navbar-background-color: #ffffff;
+  --ifm-background-color: #f0f0f0;
+  --ifm-navbar-background-color: rgba(240, 240, 240, 0.8);
   --ifm-footer-background-color: #1a1a1a;
   
   --docusaurus-highlighted-code-line-bg: rgba(215, 25, 33, 0.1);
@@ -35,22 +37,37 @@
   --ifm-color-primary-lighter: #ff6565;
   --ifm-color-primary-lightest: #ff8989;
   
-  --ifm-background-color: #0a0a0a;
-  --ifm-navbar-background-color: #0a0a0a;
+  --ifm-background-color: #000000;
+  --ifm-navbar-background-color: rgba(0, 0, 0, 0.8);
   --ifm-footer-background-color: #000000;
-  --ifm-card-background-color: #141414;
+  --ifm-card-background-color: rgba(20, 20, 20, 0.5);
   
   --docusaurus-highlighted-code-line-bg: rgba(255, 59, 59, 0.15);
+}
+
+/* Base Typography */
+body {
+  background-image: radial-gradient(rgba(128, 128, 128, 0.2) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-font-family-dot);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 /* Navbar styling */
 .navbar {
   border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+  backdrop-filter: blur(10px);
 }
 
 .navbar__title {
-  font-weight: 600;
-  letter-spacing: -0.02em;
+  font-family: var(--ifm-font-family-dot);
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 
 .navbar__logo {
@@ -59,304 +76,130 @@
 
 /* Sidebar styling */
 .menu__link {
+  font-family: var(--ifm-font-family-base);
   font-weight: 500;
   letter-spacing: -0.01em;
-}
-
-.menu__link--active {
-  font-weight: 600;
-}
-
-/* Content styling */
-article h1,
-article h2,
-article h3 {
-  letter-spacing: -0.02em;
-}
-
-/* ==========================================
-   TABLE STYLING - MOBILE RESPONSIVE
-   ========================================== */
-
-/* Scrollable table container */
-.markdown,
-.theme-doc-markdown,
-article {
-  overflow-x: visible;
-}
-
-/* Table wrapper div injected by Docusaurus or natural overflow */
-div[class*="tableWrapper"],
-.tableWrapper {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  margin: 1rem 0;
-}
-
-/* Base table styling - keep as table display */
-table {
-  display: table !important;
-  width: 100%;
-  border-collapse: collapse;
-  border-spacing: 0;
-  font-size: 0.9rem;
-}
-
-/* Ensure proper table structure */
-table thead {
-  display: table-header-group;
-}
-
-table tbody {
-  display: table-row-group;
-}
-
-table tr {
-  display: table-row;
-}
-
-table th,
-table td {
-  display: table-cell;
-}
-
-/* Table header styling */
-table th {
-  background-color: rgba(128, 128, 128, 0.1);
-  font-weight: 600;
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  letter-spacing: 0.05em;
-  white-space: nowrap;
-  padding: 0.75rem 1rem;
-  text-align: left;
-  border-bottom: 2px solid rgba(128, 128, 128, 0.2);
-}
-
-[data-theme='dark'] table th {
-  background-color: rgba(255, 255, 255, 0.08);
-}
-
-/* Table cell styling */
-table td {
-  vertical-align: middle;
-  padding: 0.75rem 1rem;
-  white-space: normal;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  border-bottom: 1px solid rgba(128, 128, 128, 0.12);
-}
-
-[data-theme='dark'] table td {
-  border-bottom-color: rgba(255, 255, 255, 0.08);
-}
-
-table tbody tr:last-child td {
-  border-bottom: none;
-}
-
-/* Zebra striping */
-table tbody tr:nth-child(even) {
-  background-color: rgba(128, 128, 128, 0.03);
-}
-
-[data-theme='dark'] table tbody tr:nth-child(even) {
-  background-color: rgba(255, 255, 255, 0.02);
-}
-
-/* Row hover */
-table tbody tr:hover {
-  background-color: rgba(128, 128, 128, 0.06);
-}
-
-[data-theme='dark'] table tbody tr:hover {
-  background-color: rgba(255, 255, 255, 0.05);
-}
-
-/* Mobile: Make parent scrollable, not the table */
-@media screen and (max-width: 996px) {
-  .markdown,
-  .theme-doc-markdown {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-  
-  table {
-    font-size: 0.85rem;
-    min-width: 600px;
-  }
-  
-  table th,
-  table td {
-    padding: 0.6rem 0.75rem;
-  }
-  
-  table th {
-    font-size: 0.7rem;
-  }
-}
-
-@media screen and (max-width: 576px) {
-  table {
-    font-size: 0.8rem;
-    min-width: 500px;
-  }
-  
-  table th,
-  table td {
-    padding: 0.5rem 0.65rem;
-  }
-  
-  table th {
-    font-size: 0.65rem;
-  }
-}
-
-/* Custom scrollbar for tables */
-.markdown::-webkit-scrollbar,
-.theme-doc-markdown::-webkit-scrollbar {
-  height: 6px;
-}
-
-.markdown::-webkit-scrollbar-track,
-.theme-doc-markdown::-webkit-scrollbar-track {
-  background: rgba(128, 128, 128, 0.1);
-  border-radius: 3px;
-}
-
-.markdown::-webkit-scrollbar-thumb,
-.theme-doc-markdown::-webkit-scrollbar-thumb {
-  background: rgba(128, 128, 128, 0.3);
-  border-radius: 3px;
-}
-
-.markdown::-webkit-scrollbar-thumb:hover,
-.theme-doc-markdown::-webkit-scrollbar-thumb:hover {
-  background: rgba(128, 128, 128, 0.5);
-}
-
-/* Code blocks */
-pre {
-  border: 1px solid rgba(128, 128, 128, 0.2);
-}
-
-code {
   border-radius: 4px;
 }
 
-/* Links */
-a {
-  text-decoration: none;
+.menu__link--active {
+  background-color: rgba(215, 25, 33, 0.1);
+  color: var(--ifm-color-primary);
 }
 
-a:hover {
-  text-decoration: underline;
+/* Hero section */
+.hero {
+  background: transparent;
+  padding: 8rem 0;
+  text-align: left;
+}
+
+.hero__title {
+  font-size: 4rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+}
+
+.hero__subtitle {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 1.1rem;
+  opacity: 0.7;
+  max-width: 600px;
+  margin-bottom: 3rem;
+}
+
+/* Buttons */
+.button {
+  font-family: var(--ifm-font-family-monospace);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 2px;
+  transition: all 0.2s ease;
+  padding: 0.75rem 1.5rem;
+}
+
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border: 1px solid var(--ifm-color-primary);
+  color: #ffffff !important;
+}
+
+.button--primary:hover {
+  background-color: transparent;
+  color: var(--ifm-color-primary) !important;
+}
+
+.button--secondary {
+  background-color: transparent;
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  color: inherit !important;
+}
+
+.button--secondary:hover {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary) !important;
+}
+
+/* Feature Cards */
+/* These styles might be overridden by module css, but setting defaults here */
+[class*="featureCard"] {
+  border-radius: 4px !important;
+  background: rgba(255, 255, 255, 0.05) !important;
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(128, 128, 128, 0.2) !important;
+  transition: all 0.3s ease;
+}
+
+[class*="featureCard"]:hover {
+  border-color: var(--ifm-color-primary) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(215, 25, 33, 0.15);
 }
 
 /* Footer */
 .footer {
   border-top: 1px solid rgba(128, 128, 128, 0.2);
+  background-color: var(--ifm-footer-background-color);
 }
 
 .footer__title {
-  font-weight: 600;
+  font-family: var(--ifm-font-family-dot);
+  font-weight: 400;
   text-transform: uppercase;
-  font-size: 0.75rem;
   letter-spacing: 0.1em;
+  opacity: 0.6;
 }
 
-/* Hero section */
-.hero {
-  background: linear-gradient(180deg, var(--ifm-background-color) 0%, rgba(215, 25, 33, 0.05) 100%);
+.footer__link-item {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.9rem;
 }
 
-[data-theme='dark'] .hero {
-  background: linear-gradient(180deg, #0a0a0a 0%, rgba(255, 59, 59, 0.08) 100%);
-}
-
-.hero__title {
-  font-size: 3rem;
-  font-weight: 700;
-  letter-spacing: -0.03em;
-}
-
-.hero__subtitle {
-  font-size: 1.25rem;
-  opacity: 0.8;
-}
-
-/* Buttons */
-.button {
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  border-radius: 8px;
-  transition: all 0.2s ease;
-}
-
-.button--primary {
-  background-color: var(--ifm-color-primary);
-  border-color: var(--ifm-color-primary);
-  color: #ffffff !important;
-}
-
-.button--primary:hover {
-  background-color: var(--ifm-color-primary-dark);
-  border-color: var(--ifm-color-primary-dark);
-  color: #ffffff !important;
-}
-
-.button--secondary {
-  background-color: transparent;
-  border: 2px solid rgba(0, 0, 0, 0.7);
-  color: #1a1a1a !important;
-}
-
-.button--secondary:hover {
-  background-color: rgba(0, 0, 0, 0.05);
-  border-color: var(--ifm-color-primary);
-  color: var(--ifm-color-primary) !important;
-}
-
-[data-theme='dark'] .button--secondary {
-  border: 2px solid rgba(255, 255, 255, 0.7);
-  color: #ffffff !important;
-}
-
-[data-theme='dark'] .button--secondary:hover {
-  background-color: rgba(255, 255, 255, 0.1);
-  border-color: var(--ifm-color-primary);
-  color: var(--ifm-color-primary) !important;
-}
-
-/* Dot separator style */
-.dot-separator {
-  text-align: center;
-  letter-spacing: 0.5em;
-  opacity: 0.3;
-  margin: 2rem 0;
-}
-
-/* Cards */
-.card {
+/* Table styling */
+table {
   border: 1px solid rgba(128, 128, 128, 0.2);
-  border-radius: 12px;
-  transition: all 0.2s ease;
+  border-radius: 4px;
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.85rem;
 }
 
-.card:hover {
-  border-color: var(--ifm-color-primary);
-  transform: translateY(-2px);
+table th {
+  background-color: rgba(128, 128, 128, 0.1);
+  font-family: var(--ifm-font-family-dot);
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
 }
 
-/* Admonitions */
-.admonition {
-  border-radius: 8px;
+table td {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
 }
 
 /* Scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -364,133 +207,26 @@ a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(128, 128, 128, 0.3);
-  border-radius: 4px;
+  background: rgba(128, 128, 128, 0.4);
+  border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(128, 128, 128, 0.5);
+  background: var(--ifm-color-primary);
 }
 
-/* ==========================================
-   MOBILE RESPONSIVE STYLES
-   ========================================== */
-
-/* General mobile content adjustments */
+/* Mobile Responsive */
 @media screen and (max-width: 996px) {
+  .hero {
+    padding: 4rem 1rem;
+    text-align: center;
+  }
+  
   .hero__title {
-    font-size: 2.25rem;
+    font-size: 2.5rem;
   }
   
   .hero__subtitle {
-    font-size: 1.1rem;
-  }
-  
-  article h1 {
-    font-size: 1.75rem;
-  }
-  
-  article h2 {
-    font-size: 1.4rem;
-  }
-  
-  article h3 {
-    font-size: 1.15rem;
-  }
-  
-  .footer__links {
-    flex-direction: column;
-    gap: 2rem;
-  }
-}
-
-@media screen and (max-width: 576px) {
-  .hero__title {
-    font-size: 1.85rem;
-  }
-  
-  .hero__subtitle {
-    font-size: 1rem;
-    padding: 0 1rem;
-  }
-  
-  article h1 {
-    font-size: 1.5rem;
-  }
-  
-  article h2 {
-    font-size: 1.25rem;
-    margin-top: 2rem;
-  }
-  
-  article h3 {
-    font-size: 1.1rem;
-  }
-  
-  /* Better content padding on mobile */
-  .markdown {
-    padding: 0;
-  }
-  
-  .markdown > * {
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-  }
-  
-  /* Navbar adjustments */
-  .navbar__title {
-    font-size: 0.95rem;
-  }
-  
-  .navbar__logo {
-    height: 24px;
-  }
-  
-  /* Footer mobile */
-  .footer {
-    padding: 2rem 1rem;
-  }
-  
-  .footer__title {
-    font-size: 0.7rem;
-  }
-  
-  .footer__item {
-    font-size: 0.85rem;
-  }
-  
-  /* Button sizing */
-  .button--lg {
-    padding: 0.75rem 1.25rem;
-    font-size: 0.9rem;
-  }
-  
-  /* Cards on mobile */
-  .card {
-    border-radius: 8px;
-  }
-  
-  /* Admonitions */
-  .admonition {
-    padding: 0.75rem;
-    font-size: 0.9rem;
-  }
-}
-
-/* Fix doc page content width on mobile */
-@media screen and (max-width: 996px) {
-  .docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
-    padding: 0;
-  }
-  
-  main[class*="docMainContainer"] {
-    padding: 0 0.5rem;
-  }
-}
-
-/* Docs sidebar toggle button */
-@media screen and (max-width: 996px) {
-  .theme-doc-sidebar-menu {
-    padding: 0.5rem;
+    margin: 0 auto 2rem;
   }
 }
