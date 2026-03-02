@@ -19,15 +19,15 @@
   --ifm-code-font-size: 90%;
   --ifm-heading-font-weight: 600;
 
-  --ifm-background-color: #ffffff;
-  --ifm-navbar-background-color: #ffffff;
-  --ifm-footer-background-color: #fafafa;
+  --ifm-background-color: #f3f2ec;
+  --ifm-navbar-background-color: #f3f2ec;
+  --ifm-footer-background-color: #1a1a1a;
 
   --docusaurus-highlighted-code-line-bg: rgba(215, 25, 33, 0.1);
 
   /* Nothing design tokens */
-  --nothing-border: rgba(0, 0, 0, 0.08);
-  --nothing-border-strong: rgba(0, 0, 0, 0.15);
+  --nothing-border: rgba(0, 0, 0, 0.16);
+  --nothing-border-strong: rgba(0, 0, 0, 0.35);
 }
 
 [data-theme='dark'] {
@@ -203,7 +203,7 @@
 }
 
 .menu__link:hover {
-  background: rgba(128, 128, 128, 0.06);
+  background: rgba(0, 0, 0, 0.04);
 }
 
 .menu__link--active {
@@ -513,7 +513,7 @@ a:hover {
   border-top: 1px solid var(--nothing-border);
   padding: 1.5rem 1rem;
   background: var(--ifm-footer-background-color);
-  color: inherit;
+  color: #ffffff;
 }
 
 .footer__copyright {
