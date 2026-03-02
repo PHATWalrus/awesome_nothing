@@ -14,15 +14,19 @@ function HomepageHeader() {
       <div className={styles.glyphGrid} aria-hidden="true" />
       <div className="container">
         <div className={styles.heroContent}>
-          <img src="img/logo.png" alt="Awesome Nothing" className={styles.heroLogo} />
-          <Heading as="h1" className={styles.heroTitle}>
-            {siteConfig.title}
-          </Heading>
-          <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link className={clsx('button', styles.ctaButton)} to="/docs/intro">
-              Explore Resources
-            </Link>
+          <div className={styles.heroText}>
+            <Heading as="h1" className={styles.heroTitle}>
+              {siteConfig.title}
+            </Heading>
+            <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+            <div className={styles.buttons}>
+              <Link className={clsx('button', styles.ctaButton)} to="/docs/intro">
+                Explore Resources
+              </Link>
+            </div>
+          </div>
+          <div className={styles.heroImage}>
+            <img src="img/logo.png" alt="Awesome Nothing" className={styles.heroLogo} />
           </div>
         </div>
       </div>

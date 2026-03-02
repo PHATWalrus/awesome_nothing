@@ -5,11 +5,11 @@
 
 /* --- Hero --- */
 .heroBanner {
-  padding: 5rem 1.5rem 3rem;
-  text-align: center;
+  padding: 8rem 1.5rem 7rem;
+  text-align: left;
   position: relative;
   overflow: hidden;
-  min-height: 45vh;
+  min-height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,19 +28,36 @@
 
 [data-theme='dark'] .glyphGrid {
   background-image: radial-gradient(circle at 1px 1px,
-      rgba(255, 255, 255, 0.04) 1px,
+      rgba(255, 255, 255, 0.15) 1px,
       transparent 0);
 }
 
 .heroContent {
   position: relative;
   z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.heroText {
+  flex: 1;
+  max-width: 600px;
+}
+
+.heroImage {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .heroLogo {
-  width: 88px;
-  height: 88px;
-  margin-bottom: 1.75rem;
+  width: 280px;
+  height: 280px;
   filter: drop-shadow(0 0 24px rgba(215, 25, 33, 0.15));
 }
 
@@ -49,26 +66,26 @@
 }
 
 .heroTitle {
-  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-size: clamp(2.5rem, 5vw, 4rem);
   font-weight: 700;
   letter-spacing: -0.04em;
   line-height: 1.1;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
 }
 
 .heroSubtitle {
-  font-size: clamp(0.95rem, 2vw, 1.15rem);
+  font-size: clamp(1rem, 2vw, 1.25rem);
   opacity: 0.7;
   letter-spacing: -0.01em;
-  max-width: 36ch;
-  margin: 0 auto 2.5rem;
+  max-width: 40ch;
+  margin: 0 0 2.5rem 0;
   line-height: 1.5;
 }
 
 .buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 1rem;
 }
 
@@ -231,18 +248,31 @@
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 3rem 1rem 3rem;
-    min-height: 40vh;
+    padding: 5rem 1rem 4rem;
+    min-height: auto;
+    text-align: center;
+  }
+
+  .heroContent {
+    flex-direction: column-reverse;
+    gap: 2rem;
+  }
+
+  .heroText {
+    max-width: 100%;
   }
 
   .heroLogo {
-    width: 72px;
-    height: 72px;
-    margin-bottom: 1.25rem;
+    width: 120px;
+    height: 120px;
   }
 
   .heroSubtitle {
-    margin-bottom: 2rem;
+    margin: 0 auto 2rem auto;
+  }
+
+  .buttons {
+    justify-content: center;
   }
 
   .features {
@@ -275,14 +305,13 @@
 
 @media screen and (max-width: 576px) {
   .heroBanner {
-    padding: 2.5rem 1rem 2rem;
+    padding: 3rem 1rem 2.5rem;
     min-height: auto;
   }
 
   .heroLogo {
-    width: 64px;
-    height: 64px;
-    margin-bottom: 1rem;
+    width: 88px;
+    height: 88px;
   }
 
   .buttons {
